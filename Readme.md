@@ -28,7 +28,9 @@ Agradezco mucho tu tiempo y atención. ¡Gracias! 👋
 
 ## 📫 Cómo contactarme
 
-- [ENLACE A TU CORREO ELECTRÓNICO]
-- [ENLACE A TU PERFIL DE LINKEDIN]
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/tuusuario)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/tuperfil](https://www.linkedin.com/in/victor-manuel-de-la-hoz-avila-370686191/))
+[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:victordelahoza@gmail.com)
+
 
 ¡Gracias por visitar mi perfil de GitHub! 😄
