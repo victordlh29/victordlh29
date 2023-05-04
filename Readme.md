@@ -13,8 +13,10 @@ Agradezco mucho tu tiempo y atención. ¡Gracias! 👋
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" height="40" style="vertical-align:down; margin:4px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" height="40" style="vertical-align:down; margin:4px">
 </p>
+
 - Tecnologías de desarrollo web: 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png"  height="40" style="vertical-align:down; margin:4px">
+
 - Herramientas y plataformas: 
 <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.png" alt="CSS3" height="40" style="vertical-align:down; margin:4px">
 
