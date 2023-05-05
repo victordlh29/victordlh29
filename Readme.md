@@ -22,7 +22,6 @@ I really appreciate your time and attention. ¡Thank you! 👋
 
 ## 📫 How to contact me
 
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/victordlh29)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-manuel-de-la-hoz-avila-370686191/)
 [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:victordelahoza@gmail.com)
 
