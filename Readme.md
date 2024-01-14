@@ -22,14 +22,13 @@
 
 <div align="center">
 
-<!-- [![Git](https://img.shields.io/badge/Git-7a3411?style=for-the-badge&logo=git&logoColor=FFF)](https://git-scm.com/doc) -->
 [![GitHub](https://img.shields.io/badge/GitHub-97573a?style=for-the-badge&logo=github&logoColor=FFF)](https://docs.github.com/)
 ![HTML5](https://img.shields.io/badge/HTML5-b37549?style=for-the-badge&logo=html5&logoColor=FFF)
 ![CSS](https://img.shields.io/badge/CSS3-cb9f88?style=for-the-badge&logo=css3&logoColor=FFF)
-<!-- ![Tailwind](https://img.shields.io/badge/tailwindcss-ae8f95?style=for-the-badge&logo=tailwindcss) -->
 ![JavaScript](https://img.shields.io/badge/JavaScript-d2bbbf?style=for-the-badge&logo=javascript&logoColor=FFF)
 ![TypeScript](https://img.shields.io/badge/TypeScript-d2bbbf?style=for-the-badge&logo=javascript&logoColor=FFF)
-
+<!-- ![Tailwind](https://img.shields.io/badge/tailwindcss-ae8f95?style=for-the-badge&logo=tailwindcss) -->
+<!-- [![Git](https://img.shields.io/badge/Git-7a3411?style=for-the-badge&logo=git&logoColor=FFF)](https://git-scm.com/doc) -->
 </div>
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=victordlh29&bg_color=0d1117&color=97573a&line=97573a&point=97573a&area=true&hide_border=true)
