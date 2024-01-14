@@ -1,28 +1,35 @@
-<h1 align="center"> Welcome to my github profile 👋</h1>
-<img align="right" src="https://img.freepik.com/vector-gratis/ilustracion-concepto-sitio-web-estatico_114360-5254.jpg" width="400" height="350" />
-Hello! My name is Victor, I'm a Systems Engineer and I'm interested in the Front-end area. I am passionate about learning new things and constantly improving my skills. Currently, I am in the process of learning Angular and it is always great to receive help and new knowledge to continue growing in this wonderful world of programming.
-<br>
-I really appreciate your time and attention. ¡Thank you! 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=venom&color=97573a&text=♡&fontColor=fff&height=200&section=header&animation=twinkling"/>
 
-## 🚀 Skills and tools
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Hii,+nice+to+see+you!;My+name+is+Victor+;I'm+from+Colombia;Welcome!)
 
-- Programming languages: 
-<p> 
-<img src="https://i.ibb.co/bLF1P6n/css-3.png" alt="CSS3" height="40" style="vertical-align:down; margin:4px">
-<img src="https://i.ibb.co/Ch4SDLV/html-1.png" alt="HTML5" height="40" style="vertical-align:down; margin:4px">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" height="40" style="vertical-align:down; margin:4px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" height="40" style="vertical-align:down; margin:4px">
-</p>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=victordlh29&show_icons=true&count_private=true&hide_border=true&title_color=97573a&icon_color=97573a&text_color=c9d1d9&bg_color=0d1117" alt="Victoria Nogueira Marques github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victordlh29&layout=compact&hide_border=true&title_color=97573a&text_color=c9d1d9&bg_color=0d1117" />
+</div>
 
-- Web development technologies: 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png"  height="40" style="vertical-align:down; margin:4px">
+### Social media:
 
-- Tools and platforms: 
-<img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.png" alt="CSS3" height="40" style="vertical-align:down; margin:4px">
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-97573a?style=for-the-badge&logo=linkedin&logoColor=FFF)](https://www.linkedin.com/in/victor-manuel-de-la-hoz-avila-370686191/)
+[![Email](https://img.shields.io/badge/-Email-97573a?style=for-the-badge&logo=gmail&logoColor=FFF)](victordelahoza@gmail.com)
 
-## 📫 How to contact me
+<!-- [![Instagram](https://img.shields.io/badge/-Instagram-b37549?style=for-the-badge&logo=instagram&logoColor=FFF)](https://www.instagram.com/victoriamnx/) -->
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-manuel-de-la-hoz-avila-370686191/)
-[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:victordelahoza@gmail.com)
+</div>
 
-<p align="center"><strong>¡Thanks for visiting my GitHub profile! 😄</strong></p>   
+### Studying at this moment:
+
+<div align="center">
+
+<!-- [![Git](https://img.shields.io/badge/Git-7a3411?style=for-the-badge&logo=git&logoColor=FFF)](https://git-scm.com/doc) -->
+[![GitHub](https://img.shields.io/badge/GitHub-97573a?style=for-the-badge&logo=github&logoColor=FFF)](https://docs.github.com/)
+![HTML5](https://img.shields.io/badge/HTML5-b37549?style=for-the-badge&logo=html5&logoColor=FFF)
+![CSS](https://img.shields.io/badge/CSS3-cb9f88?style=for-the-badge&logo=css3&logoColor=FFF)
+<!-- ![Tailwind](https://img.shields.io/badge/tailwindcss-ae8f95?style=for-the-badge&logo=tailwindcss) -->
+![JavaScript](https://img.shields.io/badge/JavaScript-d2bbbf?style=for-the-badge&logo=javascript&logoColor=FFF)
+![TypeScript](https://img.shields.io/badge/TypeScript-d2bbbf?style=for-the-badge&logo=javascript&logoColor=FFF)
+
+</div>
+
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=victordlh29&bg_color=0d1117&color=97573a&line=97573a&point=97573a&area=true&hide_border=true)
