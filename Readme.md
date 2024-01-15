@@ -27,7 +27,7 @@
 ![CSS](https://img.shields.io/badge/CSS3-cb9f88?style=for-the-badge&logo=css3&logoColor=FFF)
 ![JavaScript](https://img.shields.io/badge/JavaScript-d2bbbf?style=for-the-badge&logo=javascript&logoColor=FFF)
 ![TypeScript](https://img.shields.io/badge/TypeScript-d2bbbf?style=for-the-badge&logo=typescript&logoColor=FFF)
-![Angular](https://img.shields.io/badge/TypeScript-d2bbbf?style=for-the-badge&logo=Angular)
+![Angular](https://img.shields.io/badge/Angular-d2bbbf?style=for-the-badge&logo=Angular)
 <!-- ![Tailwind](https://img.shields.io/badge/tailwindcss-ae8f95?style=for-the-badge&logo=tailwindcss) -->
 <!-- [![Git](https://img.shields.io/badge/Git-7a3411?style=for-the-badge&logo=git&logoColor=FFF)](https://git-scm.com/doc) -->
 </div>
