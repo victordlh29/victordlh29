@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=venom&color=97573a&text=♡&fontColor=fff&height=200&section=header&animation=twinkling"/>
+<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=venom&color=97573a&text=♡&fontColor=fff&height=200&section=header&animation=twinkling"/>-->
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Hii,+nice+to+see+you!;My+name+is+Victor+;I'm+from+Colombia;Welcome!)
 
