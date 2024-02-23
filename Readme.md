@@ -3,7 +3,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Hii,+nice+to+see+you!;My+name+is+Victor+;I'm+from+Colombia;Welcome+Back!)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=victordlh29&show_icons=true&count_private=true&hide_border=true&title_color=97573a&icon_color=97573a&text_color=c9d1d9&bg_color=0d1117" alt="Victoria Nogueira Marques github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=victordlh29&show_icons=true&count_private=true&hide_border=true&title_color=97573a&icon_color=97573a&text_color=c9d1d9&bg_color=0d1117" alt="Victor De La Hoz github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victordlh29&layout=compact&hide_border=true&title_color=97573a&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
@@ -14,7 +14,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-97573a?style=for-the-badge&logo=linkedin&logoColor=FFF)](https://www.linkedin.com/in/victor-manuel-de-la-hoz-avila-370686191/)
 [![Email](https://img.shields.io/badge/-Email-97573a?style=for-the-badge&logo=gmail&logoColor=FFF)](victordelahoza@gmail.com)
 
-<!-- [![Instagram](https://img.shields.io/badge/-Instagram-b37549?style=for-the-badge&logo=instagram&logoColor=FFF)](https://www.instagram.com/victoriamnx/) -->
+
 
 </div>
 
