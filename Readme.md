@@ -1,5 +1,3 @@
-<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=venom&color=97573a&text=♡&fontColor=fff&height=200&section=header&animation=twinkling"/>-->
-
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Hii,+nice+to+see+you!;My+name+is+Victor+;I'm+from+Colombia;Welcome+Back!)
 
 <div align="center">  
@@ -28,8 +26,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-d2bbbf?style=for-the-badge&logo=javascript&logoColor=FFF)
 ![TypeScript](https://img.shields.io/badge/TypeScript-d2bbbf?style=for-the-badge&logo=typescript&logoColor=FFF)
 ![Angular](https://img.shields.io/badge/Angular-d2bbbf?style=for-the-badge&logo=Angular)
-<!-- ![Tailwind](https://img.shields.io/badge/tailwindcss-ae8f95?style=for-the-badge&logo=tailwindcss) -->
-<!-- [![Git](https://img.shields.io/badge/Git-7a3411?style=for-the-badge&logo=git&logoColor=FFF)](https://git-scm.com/doc) -->
 </div>
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=victordlh29&bg_color=0d1117&color=97573a&line=97573a&point=97573a&area=true&hide_border=true)
